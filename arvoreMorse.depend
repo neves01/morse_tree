@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1391511023 source:c:\users\henrique\desktop\arvoremorse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore.h"
+
+1391474329 c:\users\henrique\desktop\arvoremorse\arvore.h
+	<stdio.h>
+	<stdlib.h>
+
+1392261426 source:c:\users\henrique\google drive\bcc\4º semestre\aed2\arvoremorse\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+
+1392228239 c:\users\henrique\google drive\bcc\4º semestre\aed2\arvoremorse\arvore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
